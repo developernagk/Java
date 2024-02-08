@@ -16,8 +16,8 @@ public class Pcce06 {
                 	answer[i] = "Same";
             	} else {
                 	answer[i] = "Different";
-            	}
-        }
+            		}
+        	}
 
         	return answer;
     }
